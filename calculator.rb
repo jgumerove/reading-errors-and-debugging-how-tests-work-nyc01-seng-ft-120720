@@ -1,6 +1,7 @@
-first_number = 1
+first_number = 3
 second_number = 2
 
 sum = first_number + second_number
+difference = first_number - second_number
 
 # Add your variables here
